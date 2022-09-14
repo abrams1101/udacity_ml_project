@@ -1,0 +1,9 @@
+NAME                                  READY   STATUS    RESTARTS   AGE
+pod/udacity-project-57f89c87b-k52tp   1/1     Running   0          18s
+
+NAME                              READY   UP-TO-DATE   AVAILABLE   AGE
+deployment.apps/udacity-project   1/1     1            1           18s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000<paste log output from Kubernetes-mediated prediction, here>
